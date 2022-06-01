@@ -2,15 +2,20 @@
 
 ## JS-course Bogdan Stashchuk прохождение
 
+[![JS-course Bogdan Stashchuk](https://i.ytimg.com/vi/CxgOKJh4zWE/hqdefault.jpg)](http://www.youtube.com/watch?v=CxgOKJh4zWE&t)
+
+Мое прохождение курса, здесь выложены ссылки на автора курса, на youtube для удобной навигации и отслеживания 
+собственного прогресса.
+
 ## Курс по главам
 
-1. Введение
+1. Введение ✔️
     * [Ссылка на урок youtube Введение](https://www.youtube.com/watch?v=CxgOKJh4zWE&t=0s)
     * [Ссылка на выполненный урок Github Введение](https://github.com/SilverF0x-web/js-crash-course/tree/main/1_введение)
-2. Как выполнять код
+2. Как выполнять код ✔️
     * [Ссылка на урок youtube Как выполнять код](https://www.youtube.com/watch?v=CxgOKJh4zWE&t=458s)
     * [Ссылка на выполненный урок Github Как выполнять код](https://github.com/SilverF0x-web/js-crash-course/tree/main/2_как_выполнять_код)
-3. Самое важное в JavaScript
+3. Самое важное в JavaScript ✔️
     * [Ссылка на урок youtube Самое важное в JavaScript](https://www.youtube.com/watch?v=CxgOKJh4zWE&t=1217s)
     * [Ссылка на выполненный урок Github Самое важное в JavaScript](https://github.com/SilverF0x-web/js-crash-course/tree/main/3_самое_важное_в_javascript)
 4. Что такое console log
