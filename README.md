@@ -18,10 +18,10 @@
 3. Самое важное в JavaScript ✔️
     * [Ссылка на урок youtube Самое важное в JavaScript](https://www.youtube.com/watch?v=CxgOKJh4zWE&t=1217s)
     * [Ссылка на выполненный урок Github Самое важное в JavaScript](https://github.com/SilverF0x-web/js-crash-course/tree/main/3_самое_важное_в_javascript)
-4. Что такое console log
+4. Что такое console log ✔️
     * [Ссылка на урок youtube Что такое console log](https://www.youtube.com/watch?v=CxgOKJh4zWE&t=1409s)
     * [Ссылка на выполненный урок Github Что такое console log](https://github.com/SilverF0x-web/js-crash-course/tree/main/4_что_такое_console_log)
-5. Выражения
+5. Выражения ✔️
     * [Ссылка на урок youtube Выражения](https://www.youtube.com/watch?v=CxgOKJh4zWE&t=1944s)
     * [Ссылка на выполненный урок Github Выражения](https://github.com/SilverF0x-web/js-crash-course/tree/main/5_выражения)
 6. Переменные
