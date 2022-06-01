@@ -24,7 +24,7 @@
 5. Выражения ✔️
     * [Ссылка на урок youtube Выражения](https://www.youtube.com/watch?v=CxgOKJh4zWE&t=1944s)
     * [Ссылка на выполненный урок Github Выражения](https://github.com/SilverF0x-web/js-crash-course/tree/main/5_выражения)
-6. Переменные
+6. Переменные ✔️
     * [Ссылка на урок youtube Переменные](https://www.youtube.com/watch?v=CxgOKJh4zWE&t=2484s)
     * [Ссылка на выполненный урок Github Переменные](https://github.com/SilverF0x-web/js-crash-course/tree/main/6_переменные)
 7. Объявление переменных
