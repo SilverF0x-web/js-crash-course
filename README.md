@@ -27,7 +27,7 @@
 6. Переменные ✔️
     * [Ссылка на урок youtube Переменные](https://www.youtube.com/watch?v=CxgOKJh4zWE&t=2484s)
     * [Ссылка на выполненный урок Github Переменные](https://github.com/SilverF0x-web/js-crash-course/tree/main/6_переменные)
-7. Объявление переменных
+7. Объявление переменных ✔️
     * [Ссылка на урок youtube Объявление переменных](https://www.youtube.com/watch?v=CxgOKJh4zWE&t=2983s)
     * [Ссылка на выполненный урок Github Объявление переменных](https://github.com/SilverF0x-web/js-crash-course/tree/main/7_объявление_переменных)
 8. Практика по созданию переменных
