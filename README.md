@@ -5,7 +5,7 @@
 [![JS-course Bogdan Stashchuk](https://i.ytimg.com/vi/CxgOKJh4zWE/hqdefault.jpg)](http://www.youtube.com/watch?v=CxgOKJh4zWE&t)
 
 Мое прохождение курса, здесь выложены ссылки на автора курса, на youtube для удобной навигации и отслеживания 
-собственного прогресса.
+собственного прогресса. ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/16px-Unofficial_JavaScript_logo_2.svg.png "js-logo")
 
 ## Курс по главам
 
