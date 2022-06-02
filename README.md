@@ -39,13 +39,13 @@
 10. Ссылочный тип ✔️
     * [Ссылка на урок youtube Ссылочный тип](https://www.youtube.com/watch?v=CxgOKJh4zWE&t=4347s)
     * [Ссылка на выполненный урок Github Ссылочный тип](https://github.com/SilverF0x-web/js-crash-course/tree/main/10_ссылочный_тип)
-11. Динамическая типизация
+11. Динамическая типизация ✔️
     * [Ссылка на урок youtube Динамическая типизация](https://www.youtube.com/watch?v=CxgOKJh4zWE&t=5318s)
     * [Ссылка на выполненный урок Github Динамическая типизация](https://github.com/SilverF0x-web/js-crash-course/tree/main/11_динамическая_типизация)
-12. Объекты
+12. Объекты ✔️
     * [Ссылка на урок youtube Объекты](https://www.youtube.com/watch?v=CxgOKJh4zWE&t=5978s)
     * [Ссылка на выполненный урок Github Объекты](https://github.com/SilverF0x-web/js-crash-course/tree/main/12_объекты)
-13. Создание и удаление свойств объектов
+13. Создание и удаление свойств объектов ✔️
     * [Ссылка на урок youtube Создание и удаление свойств объектов](https://www.youtube.com/watch?v=CxgOKJh4zWE&t=6318s)
     * [Ссылка на выполненный урок Github Создание и удаление свойств объектов](https://github.com/SilverF0x-web/js-crash-course/tree/main/13_создание_и_удаление_свойств_объектов)
 14. Вложенные свойства
