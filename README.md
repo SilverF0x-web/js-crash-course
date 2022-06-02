@@ -33,10 +33,10 @@
 8. Практика по созданию переменных ✔️
     * [Ссылка на урок youtube Практика по созданию переменных](https://www.youtube.com/watch?v=CxgOKJh4zWE&t=3581s)
     * [Ссылка на выполненный урок Github Практика по созданию переменных](https://github.com/SilverF0x-web/js-crash-course/tree/main/8_практика_по_созданию_переменных)
-9. Примитивные типы
+9. Примитивные типы ✔️
     * [Ссылка на урок youtube Примитивные типы](https://www.youtube.com/watch?v=CxgOKJh4zWE&t=3989s)
     * [Ссылка на выполненный урок Github Примитивные типы](https://github.com/SilverF0x-web/js-crash-course/tree/main/9_примитивные_типы)
-10. Ссылочный тип
+10. Ссылочный тип ✔️
     * [Ссылка на урок youtube Ссылочный тип](https://www.youtube.com/watch?v=CxgOKJh4zWE&t=4347s)
     * [Ссылка на выполненный урок Github Ссылочный тип](https://github.com/SilverF0x-web/js-crash-course/tree/main/10_ссылочный_тип)
 11. Динамическая типизация
