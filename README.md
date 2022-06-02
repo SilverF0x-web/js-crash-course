@@ -30,7 +30,7 @@
 7. Объявление переменных ✔️
     * [Ссылка на урок youtube Объявление переменных](https://www.youtube.com/watch?v=CxgOKJh4zWE&t=2983s)
     * [Ссылка на выполненный урок Github Объявление переменных](https://github.com/SilverF0x-web/js-crash-course/tree/main/7_объявление_переменных)
-8. Практика по созданию переменных
+8. Практика по созданию переменных ✔️
     * [Ссылка на урок youtube Практика по созданию переменных](https://www.youtube.com/watch?v=CxgOKJh4zWE&t=3581s)
     * [Ссылка на выполненный урок Github Практика по созданию переменных](https://github.com/SilverF0x-web/js-crash-course/tree/main/8_практика_по_созданию_переменных)
 9. Примитивные типы
